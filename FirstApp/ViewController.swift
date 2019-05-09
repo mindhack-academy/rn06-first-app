@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        
+        print("cod pe Git")
         myimage.isHidden = true
         
         mybutton.setTitle("arata imagine", for: .normal)
